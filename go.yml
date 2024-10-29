@@ -1,6 +1,0 @@
-  |-- .github
-    |-- workflows
-    |   |-- go.yml
-    |-- go.mod
-    |-- main.go
-    `-- main_test.go
